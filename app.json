@@ -4,7 +4,7 @@
     "baseUrl":"https://gitlab.altosecure.co.id:8443/-/jira_connect",
     "lifecycle":{"installed":"/events/installed","uninstalled":"/events/uninstalled"},
     "vendor":{"name":"GitLab","url":"https://gitlab.altosecure.co.id:8443"},
-    "links":{"documentation":"https://gitlab.altosecure.co.id:8443/help/integration/jira_development_panel#gitlabcom-1"},
+    "links":{"documentation":"https://gitlab.com/help/integration/jira_development_panel#gitlabcom-1"},
     "authentication":{"type":"jwt"},
     "modules":{"jiraDevelopmentTool":{"key":"gitlab-development-tool",
     "application":{"value":"GitLab"},
